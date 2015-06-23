@@ -18,7 +18,7 @@ attend all, so this was this occasion to heard the best ones.
 ## The best talk
 
 The best talk of the day was the **opening keynote** (*Christophe Porteneuve*).
-His narration of the history of Web from the dark ages to the Web of today
+His narration of the history of the Web from the dark ages to today
 enables us to understand how it evolved and how awesome the current ecosystem is :
 preprocessor, frameworks, transpilers, SPA, the emergence of Node.js, etc.
 He pointed out the problem with the current educational system regarding the
@@ -26,7 +26,7 @@ formation of web developers, which isn't to me a real problem, since you can
 easily train yourself on the Internet. He raised the issue of privacy on the
 Internet shared his idealistic position about the role of a developer : to help
 people, not to make money. He started the heated debate of the day : AngularJS
-vs the rest of the world.
+vs the other JS frameworks.
 At BAM, we are fans of Angular and use it for most of our projects and will
 continue to use it when the 2.0 version will be released.
 
@@ -73,6 +73,10 @@ get a resource (e.g. "/users"), which prevents us from versioning the API (e.g.
 **Tarifa CLI**(*Paul Panserrieu*) is a command-line that can build Cordova
 projects with more options. But let see if it is really customizable.
 
+*Florent Duveau* defended his framework (**Why choosing Backbone in 2015 ?**).
+He stated that Backbone is not comparable with Angular and Ember, as its aims
+is binding the data and not views. It seems mature and light.
+
 
 ## The talk: "Oh, I'm a bit lost here!"
 
@@ -97,7 +101,8 @@ and hot day. I also missed the presentation of **NodeWebkit** by *Jacopo Daeli*
 (I will not admit I was playing at the Viseo quizz game at that moment or
 watching the tennis game...).
 
-
+In addition to these talks, there were some stands like Mozilla who promoted its
+mobile operating system Firefox OS and its developer edition for Firefox.
 
 
 ## My top 3 of stands:
